@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-14.432554 : 245.5329 : 1"
+       inkscape:vp_y="0 : 290.73857 : 0"
+       inkscape:vp_z="195.56745 : 245.5329 : 1"
+       inkscape:persp3d-origin="90.567446 : 231.14134 : 1"
+       id="perspective3682" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="63.619203"
+     inkscape:cy="640.8122"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="747"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3684"
+       inkscape:perspectiveID="#perspective3682"
+       inkscape:corner0="4.1692351 : 0.6855529 : 0 : 1"
+       inkscape:corner7="3.0087944 : 0.52133694 : 0.25 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3686"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 5.8799291,15.692935 v 9.236166 l 8.7506599,1.22425 v -8.810083 z"
+         points="5.8799291,24.929101 14.630589,26.153351 14.630589,17.343268 5.8799291,15.692935 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3696"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 14.630589,17.343268 22.549744,8.0451694 V 19.255833 l -7.919155,6.897518 z"
+         points="22.549744,8.0451694 22.549744,19.255833 14.630589,26.153351 14.630589,17.343268 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3688"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="M 5.8799291,15.692935 11.75986,5.3372519 22.549744,8.0451694 14.630589,17.343268 Z"
+         points="11.75986,5.3372519 22.549744,8.0451694 14.630589,17.343268 5.8799291,15.692935 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3694"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 5.8799291,24.929101 5.8799309,-7.682056 10.789884,2.008788 -7.919155,6.897518 z"
+         points="11.75986,17.247045 22.549744,19.255833 14.630589,26.153351 5.8799291,24.929101 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3692"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M 11.75986,5.3372519 V 17.247045 l 10.789884,2.008788 V 8.0451694 Z"
+         points="11.75986,17.247045 22.549744,19.255833 22.549744,8.0451694 11.75986,5.3372519 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3690"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:0.5392018;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 5.8799291,15.692935 11.75986,5.3372519 V 17.247045 l -5.8799309,7.682056 z"
+         points="11.75986,5.3372519 11.75986,17.247045 5.8799291,24.929101 5.8799291,15.692935 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:normal;font-size:10.58333333px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Italic';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       x="25.209286"
+       y="15.821712"
+       id="text3700"><tspan
+         sodipodi:role="line"
+         id="tspan3698"
+         x="25.209286"
+         y="15.821712"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:10.58333333px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#800000;">IVAN</tspan><tspan
+         sodipodi:role="line"
+         x="25.209286"
+         y="22.436295"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Italic';font-family:sans-serif;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal;font-size:10.58333333px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;fill:#800000;"
+         id="tspan3702">HIDROVO</tspan></text>
+  </g>
+</svg>
